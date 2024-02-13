@@ -45,7 +45,7 @@ export const config: TConfig = {
     email: "johndoe@mail.com",
   },
   hero: {
-    name: "Abdul Samad",
+    name: "Abdul Samad Arain",
     p: ["I develop 3D visuals, user", "interfaces and web applications"],
   },
   contact: {
